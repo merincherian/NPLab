@@ -1,5 +1,7 @@
-//Time server program using UDP
-//Author: Nandagopal
+// R6 MINI AISHWARYA
+// EXPERIMENT 11 - TIME SERVER APPLICATION USING UDP
+
+/*---------SERVER SIDE----------*/
 
 #include"sys/socket.h"
 #include"netinet/in.h"

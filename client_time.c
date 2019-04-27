@@ -1,5 +1,5 @@
-//Client program for Time server
-//Author: Nandagopal
+// R6 MINI AISHWARYA
+// EXPERIMENT 11 - TIMER SERVER APPLICATION USING UDP
 
 #include"sys/socket.h"
 #include"netinet/in.h"

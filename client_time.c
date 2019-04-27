@@ -1,6 +1,8 @@
 // R6 MINI AISHWARYA
 // EXPERIMENT 11 - TIMER SERVER APPLICATION USING UDP
 
+/*-------CLIENT SIDE---------*/
+
 #include"sys/socket.h"
 #include"netinet/in.h"
 #include"stdio.h"
